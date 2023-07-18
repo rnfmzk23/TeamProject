@@ -1,0 +1,13 @@
+2023-07-18 09:40:44,880 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Team
+2023-07-18 09:40:44,886 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Team
+2023-07-18 09:40:45,270 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Team
+2023-07-18 09:40:46,215 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Team
+2023-07-18 09:40:46,215 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Team
+2023-07-18 09:49:09,282 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of team_pj
+2023-07-18 09:49:09,282 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for team_pj
+2023-07-18 16:29:32,679 [Worker-69: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for team_pj
+2023-07-18 16:29:33,486 [Worker-70: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of team_pj
+2023-07-18 16:29:33,487 [Worker-70: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for team_pj
+2023-07-18 16:29:50,695 [Worker-74: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for team_pj
+2023-07-18 16:29:50,888 [Worker-70: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of team_pj
+2023-07-18 16:29:50,888 [Worker-70: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for team_pj
